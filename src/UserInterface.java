@@ -7,7 +7,7 @@ public class UserInterface {
 		Calculator calc = new Calculator();
 		String input;
 
-		System.out.println("INVISICALC by Ethan J. Howell, version 1.1, June 2017.");
+		System.out.println("INVISICALC by Ethan J. Howell, version 0.2 October 2019.");
 		System.out.println("Type \"help\" for some help.");
 
 		programLoop: do {
