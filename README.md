@@ -6,7 +6,7 @@ This is a command line calculator written in Java. For more information, launch 
 To compile the calculator, run the following commands at the command-line prompt:
 ```bash
 mkdir obj
-javac -d ./obj *.java
+javac -d obj/ src/*.java
 cd obj
 jar -cfe ../InvisiCalc.jar UserInterface *
 ```
